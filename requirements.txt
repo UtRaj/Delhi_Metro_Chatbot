@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 1. numpy
 2. pandas
 3. re
 4. random
 5. decimal
+=======
+1. numpy
+2. pandas
+3. re
+4. random
+5. decimal
+>>>>>>> d6d533c58dd1ff43475f0fe4ad4454dc03a59b8d

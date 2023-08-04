@@ -1,4 +1,5 @@
 # Delhi_Metro_Chatbot
+<<<<<<< HEAD
 This Delhi Metro Chatbot is an interactive chatbot that allows users to access information without the need for extensive registration. Through natural language processing and pattern matching, the chatbot simulates human-like conversation to provide facilities for booking metro ticket in few steps , fetch time and respond to some queries.  
 
 # Related Work:
@@ -10,3 +11,6 @@ The following technical paper played a significant role in shaping the developme
 
 The insights gained from this paper influenced the natural language processing techniques and pattern matching algorithms used in the chatbot to deliver accurate responses to user queries.
 
+=======
+Delhi Metro Chatbot is a Python-based interactive chatbot that simulates the Delhi Metro booking system. It allows users to interact with the bot to perform various tasks such as booking tickets, checking travel times, and getting responses to general queries related to the Delhi Metro.
+>>>>>>> d6d533c58dd1ff43475f0fe4ad4454dc03a59b8d
